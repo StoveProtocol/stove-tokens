@@ -1,9 +1,9 @@
 {
   "name": "Stove Tokenized Stocks List",
-  "timestamp": "2026-11-11T10:14:57.981Z",
+  "timestamp": "2026-11-18T07:11:42.523Z",
   "version": {
-    "major": 1,
-    "minor": 1,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://cdn.habittrade.com/icons/tokens/logo.png",
@@ -5279,17 +5279,6 @@
       "name": "Kumho Tire (Stove Tokenized Stocks)",
       "decimals": 18,
       "logoURI": "https://cdn.habittrade.com/icons/tokens/KUMHOTIREs.png",
-      "tags": [
-        "stove"
-      ]
-    },
-    {
-      "chainId": 56,
-      "address": "0xee2208b58cfbba4fe6e81df2b0d55bd15571af47",
-      "symbol": "KVUEs",
-      "name": "Kenvue (Stove Tokenized Stocks)",
-      "decimals": 18,
-      "logoURI": "https://cdn.habittrade.com/icons/tokens/KVUEs.png",
       "tags": [
         "stove"
       ]
@@ -15449,17 +15438,6 @@
     },
     {
       "chainId": 1672,
-      "address": "0xd2c9d35583161a109da89c073b5632df13c1895f",
-      "symbol": "KVUEs",
-      "name": "Kenvue (Stove Tokenized Stocks)",
-      "decimals": 18,
-      "logoURI": "https://cdn.habittrade.com/icons/tokens/KVUEs.png",
-      "tags": [
-        "stove"
-      ]
-    },
-    {
-      "chainId": 1672,
       "address": "0x3ac5d6bc10970971a65e4954dc17160a27271f13",
       "symbol": "KWEBs",
       "name": "KraneShares CSI China Internet ETF (Stove Tokenized Stocks)",
@@ -25607,17 +25585,6 @@
       "name": "Kumho Tire (Stove Tokenized Stocks)",
       "decimals": 18,
       "logoURI": "https://cdn.habittrade.com/icons/tokens/KUMHOTIREs.png",
-      "tags": [
-        "stove"
-      ]
-    },
-    {
-      "chainId": 42161,
-      "address": "0x82e1146582edb7713274edd25c3093eadef92a50",
-      "symbol": "KVUEs",
-      "name": "Kenvue (Stove Tokenized Stocks)",
-      "decimals": 18,
-      "logoURI": "https://cdn.habittrade.com/icons/tokens/KVUEs.png",
       "tags": [
         "stove"
       ]

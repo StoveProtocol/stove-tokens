@@ -1,9 +1,9 @@
 {
   "name": "Stove Tokenized Stocks List",
-  "timestamp": "2026-11-18T07:11:42.523Z",
+  "timestamp": "2026-11-24T02:33:06.960Z",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://cdn.habittrade.com/icons/tokens/logo.png",
@@ -505,6 +505,17 @@
       "name": "Arista Networks (Stove Tokenized Stocks)",
       "decimals": 18,
       "logoURI": "https://cdn.habittrade.com/icons/tokens/ANETs.png",
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 56,
+      "address": "0xfc65722d22ea1b90cd9ae2a67e512821f319a0cf",
+      "symbol": "ANTs",
+      "name": "Anthropic (Stove Tokenized Stocks)",
+      "decimals": 18,
+      "logoURI": "https://cdn.habittrade.com/icons/tokens/ANTs.png",
       "tags": [
         "stove"
       ]
@@ -10664,6 +10675,17 @@
     },
     {
       "chainId": 1672,
+      "address": "0xc3f52f2b3e3bf0ecaf2e60dfa95646dbaac1500c",
+      "symbol": "ANTs",
+      "name": "Anthropic (Stove Tokenized Stocks)",
+      "decimals": 18,
+      "logoURI": "https://cdn.habittrade.com/icons/tokens/ANTs.png",
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 1672,
       "address": "0xcdb7b3e2bd83213503fd537e48e2bbe48a46ff0e",
       "symbol": "AOSs",
       "name": "A.O. Smith (Stove Tokenized Stocks)",
@@ -20811,6 +20833,17 @@
       "name": "Arista Networks (Stove Tokenized Stocks)",
       "decimals": 18,
       "logoURI": "https://cdn.habittrade.com/icons/tokens/ANETs.png",
+      "tags": [
+        "stove"
+      ]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xc5a46ad2bf662abeee0ba8e8f4d8a97af21d1ed5",
+      "symbol": "ANTs",
+      "name": "Anthropic (Stove Tokenized Stocks)",
+      "decimals": 18,
+      "logoURI": "https://cdn.habittrade.com/icons/tokens/ANTs.png",
       "tags": [
         "stove"
       ]
